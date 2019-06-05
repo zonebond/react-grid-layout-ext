@@ -5,3 +5,5 @@ dist/*
 npm-debug.log
 build/
 .idea
+yarn.lock
+.DS_Store
